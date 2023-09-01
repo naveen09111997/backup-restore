@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T10:54:24.085Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uFWAx1_k0fXY9bc5fmP2" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T10:59:24.190Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Xee8oQoA3GgvKIZ9MrPQ" version="21.7.0" type="github">
   <diagram name="Page-1" id="9AsOzyfTxAAt59TYpuIn">
     <mxGraphModel dx="1434" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="MmiJt0va4LWQRkHMWDSl-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;BACKUP-SCRIPT.SH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WtYuY4UgmzVssFFDPIEh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtYuY4UgmzVssFFDPIEh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-2" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px;&quot;&gt;BACKUP-FOLDERS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="WtYuY4UgmzVssFFDPIEh-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;/var/lib/docker/volumes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="420" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WtYuY4UgmzVssFFDPIEh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WtYuY4UgmzVssFFDPIEh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="430" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;/home/iplon/Backup/temp&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -50,16 +50,19 @@
           <mxGeometry x="750" y="420" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="545" width="260" height="80" as="geometry" />
+          <mxGeometry x="300" y="545" width="260" height="95" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WtYuY4UgmzVssFFDPIEh-13">
-          <mxGeometry width="260" height="80" as="geometry" />
+          <mxGeometry width="260" height="95" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-11" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;/home/iplon/Backup/&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WtYuY4UgmzVssFFDPIEh-13">
-          <mxGeometry x="10" width="230" height="30" as="geometry" />
+          <mxGeometry x="10" width="230" height="35.625" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Date-backup.tar.gz&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WtYuY4UgmzVssFFDPIEh-13">
-          <mxGeometry x="60" y="35" width="140" height="30" as="geometry" />
+          <mxGeometry x="60" y="29.685" width="140" height="35.625" as="geometry" />
+        </mxCell>
+        <mxCell id="WtYuY4UgmzVssFFDPIEh-24" value="&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;find -mtime +7 -delete&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="WtYuY4UgmzVssFFDPIEh-13">
+          <mxGeometry y="59.375" width="140" height="35.625" as="geometry" />
         </mxCell>
         <mxCell id="WtYuY4UgmzVssFFDPIEh-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="WtYuY4UgmzVssFFDPIEh-8" target="WtYuY4UgmzVssFFDPIEh-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
